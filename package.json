@@ -1,0 +1,25 @@
+{
+  "name": "dapp-ico-simulator",
+  "version": "1.0.0",
+  "description": "Ethereum dApp - advanced raffle game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juretrilar/dapp-ico-simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juretrilar/dapp-ico-simulator/issues"
+  },
+  "homepage": "https://github.com/juretrilar/dapp-ico-simulator#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "materialize-css": "^1.0.0-rc.2",
+    "vue": "^2.6.10"
+  }
+}
